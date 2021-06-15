@@ -1,0 +1,130 @@
+body{
+	background-image:url(./20210604nlxl-phe-03.jpg);
+	}
+
+form{
+	padding:10px 10px;
+	margin-left: 50px;
+	}
+
+h1{
+	font-family: 'Caveat', cursive;
+	}
+
+dt{
+	width:120px;
+	float:left;
+	clear:both;
+	}
+
+#logout{
+	border-radius:5px;
+	width:75px;
+	}
+
+#logout:hover {
+      background-color: #b0c4de;
+    }
+
+#loginbutton {
+    background-color: #bdb76b;
+    border-radius:5px;
+    width:100px;
+    }
+
+#loginbutton:hover {
+      background-color: #6b8e23;
+    }
+
+#resetbutton {
+      background-color: #e9967a;
+      border-radius:5px;
+      width:100px;
+    }
+#resetbutton:hover {
+      background-color: #cd5c5c;
+    }
+
+
+
+.t-line th{
+	color:white;
+	background-color:#cd5c5c;
+	height:25px;
+	}
+
+.t-line tr:nth-child(odd) td {
+  background-color: #fff5ee;
+}
+
+td{
+	text-align:center;
+	height:50px;
+	background-color:#ffffff;
+	}
+
+table{
+	border:5 ;
+	border-spacing: 0;
+	border-collapse: separate;
+	border-radius:20px;
+    margin-left: auto;
+    margin-right: auto;
+	overflow: hidden;
+	}
+
+.example li {
+	display: inline-block;
+	}
+
+#page1{
+	border-radius:50%;
+	background-color:#cd5c5c;
+	color:white;
+
+}
+
+#page1:hover{
+
+    background-color:#e9967a;
+}
+
+#entrybutton{
+	background-color: #bdb76b;
+    border-radius:5px;
+    width:100px;
+	}
+
+#entrybutton:hover{
+      background-color: #6b8e23;
+    }
+
+#updatebutton{
+	background-color: #bdb76b;
+    border-radius:5px;
+    width:100px;
+	}
+
+#updatebutton:hover{
+      background-color: #6b8e23;
+    }
+
+#deletebutton{
+    background-color: #e9967a;
+    border-radius:5px;
+    width:100px;
+	}
+
+#deletebutton:hover {
+    background-color: #cd5c5c;
+    }
+
+#csvbutton{
+	background-color: #e6e6fa;
+    border-radius:5px;
+    width:100px;
+	}
+
+#csvbutton:hover {
+	background-color: #b0c4de;
+}

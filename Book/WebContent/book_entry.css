@@ -1,0 +1,77 @@
+body{
+	background-image:url(./20210604nlxl-phe-03.jpg);
+	}
+
+form{
+	padding:30px 50px;
+	margin-left: 50px;
+	}
+
+h1{
+	font-family: 'Caveat', cursive;
+	}
+
+dt{
+	width: 120px;
+	padding:10px 0;
+	float:left;
+	clear:both;
+	}
+
+dd{
+	padding:10px 0;
+	}
+
+#logout{
+	border-radius:5px;
+	width:75px;
+	}
+
+#logout:hover {
+      background-color: #b0c4de;
+    }
+
+.box1 {
+    padding: 1em 2em;
+    margin: 2.5em 4em;
+	border-radius:15px;
+    background-color:rgba( 255, 255, 255, 0.55 );
+    color: black;
+}
+
+#entrybutton{
+    background-color: #bdb76b;
+	width: 100px;
+	border-radius:5px;
+    margin-left:100px;
+	}
+
+#entrybutton:hover {
+      background-color: #6b8e23;
+    }
+
+
+#resetbutton{
+    background-color: #e9967a;
+	width: 100px;
+	border-radius:5px;
+	}
+
+#resetbutton:hover {
+      background-color: #cd5c5c;
+    }
+
+
+#backbutton{
+	width:75px;
+	margin-top:122px;
+	border-radius:5px;
+	}
+#backbutton:hover {
+      background-color: #b0c4de;
+    }
+
+.button_wrapper{
+   text-align:center;
+}
+
